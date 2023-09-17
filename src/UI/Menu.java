@@ -124,7 +124,7 @@ public class Menu extends Main {
         System.out.println("[2] Edit Existing Course...........");
         System.out.println("[3] Delete Course..................");
         System.out.println("[4] Show All Courses...............");
-        System.out.println("[5] Assign Course To Course........");
+        System.out.println("[5] Assign Professor To Course.....");
         System.out.println("[6] Show Courses Average Grade.....");
         System.out.println("[9] .............EXIT..............");
         do
