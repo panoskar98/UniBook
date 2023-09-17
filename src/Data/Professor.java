@@ -1,7 +1,7 @@
 package Data;
 
 /**
- * @Professor A class that refers to the professors of university
+ * A class that refers to the professors of university
  */
 public class Professor extends Person
 {

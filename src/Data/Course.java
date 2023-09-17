@@ -1,7 +1,7 @@
 package Data;
 
 /**
- * @Course A class that refers to the available courses of the university
+ * A class that refers to the available courses of the university
  */
 public class Course
 {

@@ -3,7 +3,7 @@ package Data;
 import java.util.ArrayList;
 
 /**
- * @class Student  A class that refers to the students of university
+ * A class that refers to the students of university
  */
 public class Student extends Person
 {
